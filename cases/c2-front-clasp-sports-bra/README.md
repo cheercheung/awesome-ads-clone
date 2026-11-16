@@ -1,8 +1,8 @@
 # E-bra front-clasp try-on
 
-[![Frame from the E-bra front-clasp try-on rebuild](preview.jpg)](rebuild.mp4)
+[![Frame from the E-bra front-clasp try-on rebuild](preview.jpg)](rebuild.mp4?raw=true)
 
-[Watch or download the rebuild](rebuild.mp4) · 17.50 s · Finished · 2026-11-10
+[Watch or download the rebuild](rebuild.mp4?raw=true) · 17.50 s · Finished · 2026-11-10
 
 **When the product must be hidden, let the start frame establish the garment layer and drop the conflicting packshot.**
 

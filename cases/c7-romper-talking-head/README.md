@@ -1,8 +1,8 @@
 # Romper talking head
 
-[![Frame from the Romper talking head rebuild](preview.jpg)](rebuild.mp4)
+[![Frame from the Romper talking head rebuild](preview.jpg)](rebuild.mp4?raw=true)
 
-[Watch or download the rebuild](rebuild.mp4) · 16.62 s · Finished · 2026-11-12
+[Watch or download the rebuild](rebuild.mp4?raw=true) · 16.62 s · Finished · 2026-11-12
 
 **Lock garment views before generation and check dialogue before choosing a trim to hide drift.**
 

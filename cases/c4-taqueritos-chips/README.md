@@ -1,8 +1,8 @@
 # Taqueritos chips skit
 
-[![Frame from the Taqueritos chips skit rebuild](preview.jpg)](rebuild.mp4)
+[![Frame from the Taqueritos chips skit rebuild](preview.jpg)](rebuild.mp4?raw=true)
 
-[Watch or download the rebuild](rebuild.mp4) · 8.20 s · Draft · 2026-11-10
+[Watch or download the rebuild](rebuild.mp4?raw=true) · 8.20 s · Draft · 2026-11-10
 
 **Check whether the start and end frames can be joined by the camera move before submitting.**
 

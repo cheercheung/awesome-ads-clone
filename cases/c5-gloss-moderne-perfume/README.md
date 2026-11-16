@@ -1,8 +1,8 @@
 # Gloss Moderne perfume demo
 
-[![Frame from the Gloss Moderne perfume demo rebuild](preview.jpg)](rebuild.mp4)
+[![Frame from the Gloss Moderne perfume demo rebuild](preview.jpg)](rebuild.mp4?raw=true)
 
-[Watch or download the rebuild](rebuild.mp4) · 7.17 s · Draft · 2026-11-10
+[Watch or download the rebuild](rebuild.mp4?raw=true) · 7.17 s · Draft · 2026-11-10
 
 **Prepare a start frame for each physical state of the product and describe the action in observable beats.**
 

@@ -1,8 +1,8 @@
 # Evopaste toothpaste tabs
 
-[![Frame from the Evopaste toothpaste tabs rebuild](preview.jpg)](rebuild.mp4)
+[![Frame from the Evopaste toothpaste tabs rebuild](preview.jpg)](rebuild.mp4?raw=true)
 
-[Watch or download the rebuild](rebuild.mp4) · 21.18 s · Finished · 2026-11-05
+[Watch or download the rebuild](rebuild.mp4?raw=true) · 21.18 s · Finished · 2026-11-05
 
 **Use a visual hook to introduce the problem, then give the demonstration and the pack its own shot.**
 

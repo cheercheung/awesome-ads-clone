@@ -1,7 +1,7 @@
 {
   "source_pack": "AI-Ad-Clone-Pack",
   "source_pack_date": "2026-11-16",
-  "scope": "Local repository draft. Rebuild videos are preserved byte for byte. Previews are derived from the rebuilds. Original clips and comparison videos contain third-party material and are held in the source pack. No public media URLs or clearance are asserted.",
+  "scope": "Rebuild videos are preserved byte for byte. Previews are derived from the rebuilds. Original ads and side-by-side comparisons contain third-party material and remain in the source pack.",
   "cases": [
     {
       "id": "c1",
@@ -19,7 +19,7 @@
         {
           "source_path": "04-Clone-Cases/c1-Evopaste-toothpaste-tabs/2-rebuild.mp4",
           "role": "rebuild",
-          "disposition": "local-repo"
+          "disposition": "repository-rebuild"
         },
         {
           "source_path": "04-Clone-Cases/c1-Evopaste-toothpaste-tabs/3-compare.mp4",
@@ -56,7 +56,7 @@
         {
           "source_path": "04-Clone-Cases/c2-E-bra-try-on/2-rebuild.mp4",
           "role": "rebuild",
-          "disposition": "local-repo"
+          "disposition": "repository-rebuild"
         },
         {
           "source_path": "04-Clone-Cases/c2-E-bra-try-on/3-compare.mp4",
@@ -93,7 +93,7 @@
         {
           "source_path": "04-Clone-Cases/c4-Taqueritos-chips-DRAFT/2-rebuild.mp4",
           "role": "rebuild",
-          "disposition": "local-repo"
+          "disposition": "repository-rebuild"
         },
         {
           "source_path": "04-Clone-Cases/c4-Taqueritos-chips-DRAFT/3-compare.mp4",
@@ -130,7 +130,7 @@
         {
           "source_path": "04-Clone-Cases/c5-Gloss-Moderne-perfume/2-rebuild.mp4",
           "role": "rebuild",
-          "disposition": "local-repo"
+          "disposition": "repository-rebuild"
         },
         {
           "source_path": "04-Clone-Cases/c5-Gloss-Moderne-perfume/3-compare.mp4",
@@ -167,7 +167,7 @@
         {
           "source_path": "04-Clone-Cases/c6-Gym-day-vlog/2-rebuild.mp4",
           "role": "rebuild",
-          "disposition": "local-repo"
+          "disposition": "repository-rebuild"
         },
         {
           "source_path": "04-Clone-Cases/c6-Gym-day-vlog/3-compare.mp4",
@@ -204,7 +204,7 @@
         {
           "source_path": "04-Clone-Cases/c7-Romper-talking-head/2-rebuild.mp4",
           "role": "rebuild",
-          "disposition": "local-repo"
+          "disposition": "repository-rebuild"
         },
         {
           "source_path": "04-Clone-Cases/c7-Romper-talking-head/3-compare.mp4",
@@ -241,7 +241,7 @@
         {
           "source_path": "05-New-Test-Outputs/n1-solar-charger/rebuild.mp4",
           "role": "rebuild",
-          "disposition": "local-repo"
+          "disposition": "repository-rebuild"
         }
       ],
       "case_page": "cases/output-only.md#n1",
@@ -273,7 +273,7 @@
         {
           "source_path": "05-New-Test-Outputs/n2-balm-tin/rebuild.mp4",
           "role": "rebuild",
-          "disposition": "local-repo"
+          "disposition": "repository-rebuild"
         }
       ],
       "case_page": "cases/output-only.md#n2",
@@ -305,7 +305,7 @@
         {
           "source_path": "05-New-Test-Outputs/n3-DAILYFORM-shake/rebuild.mp4",
           "role": "rebuild",
-          "disposition": "local-repo"
+          "disposition": "repository-rebuild"
         }
       ],
       "case_page": "cases/output-only.md#n3",
@@ -337,7 +337,7 @@
         {
           "source_path": "05-New-Test-Outputs/n4-VELORA-serum/rebuild.mp4",
           "role": "rebuild",
-          "disposition": "local-repo"
+          "disposition": "repository-rebuild"
         }
       ],
       "case_page": "cases/output-only.md#n4",
@@ -369,7 +369,7 @@
         {
           "source_path": "05-New-Test-Outputs/n5-PACELO-sneakers/rebuild.mp4",
           "role": "rebuild",
-          "disposition": "local-repo"
+          "disposition": "repository-rebuild"
         }
       ],
       "case_page": "cases/output-only.md#n5",
@@ -401,7 +401,7 @@
         {
           "source_path": "05-New-Test-Outputs/n6-VELORA-rose/rebuild.mp4",
           "role": "rebuild",
-          "disposition": "local-repo"
+          "disposition": "repository-rebuild"
         }
       ],
       "case_page": "cases/output-only.md#n6",

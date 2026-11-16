@@ -1,8 +1,8 @@
 # Gym Day vlog
 
-[![Frame from the Gym Day vlog rebuild](preview.jpg)](rebuild.mp4)
+[![Frame from the Gym Day vlog rebuild](preview.jpg)](rebuild.mp4?raw=true)
 
-[Watch or download the rebuild](rebuild.mp4) · 20.08 s · Finished · 2026-11-12
+[Watch or download the rebuild](rebuild.mp4?raw=true) · 20.08 s · Finished · 2026-11-12
 
 **Continue a demanding physical action from the last usable frame when the long take drifts.**
 
