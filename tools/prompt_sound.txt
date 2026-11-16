@@ -1,0 +1,8 @@
+Answer only the questions below about this video's sound and on-screen text. Write only what you actually hear and see. Do not guess.
+
+1. Is there a speaking human voice on the audio track (narration or talking to camera)? If there is, transcribe it line by line, word for word, in the original language, with start and end seconds for each line, and say whether it is off-screen narration or on-camera speech. If the only voice is singing in a song, state clearly "singing, not narration", and transcribe whatever lyric fragments you can make out.
+2. What type of music is it, and is there singing?
+3. Is there any text, caption, sticker or watermark on screen? If there is, list each one with the second it appears, its position and its exact text. If there is none, state clearly "No on-screen text at all".
+4. Are there any physical sound effects (button snaps, fabric rustle, claps)?
+
+Answer in English, in Markdown. If unsure, write "unsure".

@@ -1,0 +1,18 @@
+This video is an AI-generated clip. Below is its target sheet, which describes what this clip is supposed to show:
+
+{{TARGET}}
+
+Describe only what actually happens on screen. Do not guess. If something cannot be seen clearly, write "can't see clearly".
+
+Task 1 ACTION LOG: one row every 0.25 s. Merge rows where nothing changes and write the time range. Four columns: Time | Body (facing, posture, gaze) | Hands (what the left and right hand each hold, and where) | Product state (where the product is, what state it is in, which parts are visible, written as "before -> after"). Write clothing as layers: what each layer is, from the outermost to the innermost.
+
+Task 2 Check against the target sheet row by row: for every row of the sheet, answer "match / no match / can't see clearly", give the seconds, and write what you actually see. Answer each of the following separately:
+1. Does frame 0 (the very start of the video) match the target first frame in person, clothing, pose and shot size?
+2. Does the layering of every garment (which one is outermost) match the target for the whole clip? Is there any moment where it does not?
+3. Does every "Must show" item appear? At what second?
+4. Does any "Must not appear" item appear? At what second?
+5. Do the action rows happen in order, and at roughly what seconds?
+
+Task 3 General questions. Answer only "yes / no / can't see clearly" and give the seconds: is there a second person, a room change, a wardrobe change, a deformed hand, cloth clipping, a change in the fabric pattern, any on-screen text?
+
+Output in English as Markdown tables.

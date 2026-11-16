@@ -1,0 +1,421 @@
+{
+  "source_pack": "AI-Ad-Clone-Pack",
+  "source_pack_date": "2026-11-16",
+  "scope": "Local repository draft. Rebuild videos are preserved byte for byte. Previews are derived from the rebuilds. Original clips and comparison videos contain third-party material and are held in the source pack. No public media URLs or clearance are asserted.",
+  "cases": [
+    {
+      "id": "c1",
+      "title": "Evopaste toothpaste tabs",
+      "status": "finished",
+      "documented_date": "2026-11-05",
+      "source_path": "04-Clone-Cases/c1-Evopaste-toothpaste-tabs/rebuild-plan.md",
+      "source_media_count": 3,
+      "source_media": [
+        {
+          "source_path": "04-Clone-Cases/c1-Evopaste-toothpaste-tabs/1-reference.mov",
+          "role": "reference",
+          "disposition": "withheld-third-party-reference"
+        },
+        {
+          "source_path": "04-Clone-Cases/c1-Evopaste-toothpaste-tabs/2-rebuild.mp4",
+          "role": "rebuild",
+          "disposition": "local-repo"
+        },
+        {
+          "source_path": "04-Clone-Cases/c1-Evopaste-toothpaste-tabs/3-compare.mp4",
+          "role": "comparison",
+          "disposition": "withheld-third-party-reference"
+        }
+      ],
+      "case_page": "cases/c1-evopaste-toothpaste-tabs/README.md",
+      "video": {
+        "path": "cases/c1-evopaste-toothpaste-tabs/rebuild.mp4",
+        "sha256": "53453c69d9d446ebe3f0ca50b292a23a5c25dea74dfc81a48133745a44cb4584",
+        "duration_seconds": 21.184,
+        "width": 480,
+        "height": 854
+      },
+      "preview_path": "cases/c1-evopaste-toothpaste-tabs/preview.jpg",
+      "preview_time_seconds": 1.1,
+      "historical_cost_usd": 2.52,
+      "cost_scope": "Video generation only"
+    },
+    {
+      "id": "c2",
+      "title": "E-bra front-clasp try-on",
+      "status": "finished",
+      "documented_date": "2026-11-10",
+      "source_path": "04-Clone-Cases/c2-E-bra-try-on/rebuild-plan.md",
+      "source_media_count": 3,
+      "source_media": [
+        {
+          "source_path": "04-Clone-Cases/c2-E-bra-try-on/1-reference.mp4",
+          "role": "reference",
+          "disposition": "withheld-third-party-reference"
+        },
+        {
+          "source_path": "04-Clone-Cases/c2-E-bra-try-on/2-rebuild.mp4",
+          "role": "rebuild",
+          "disposition": "local-repo"
+        },
+        {
+          "source_path": "04-Clone-Cases/c2-E-bra-try-on/3-compare.mp4",
+          "role": "comparison",
+          "disposition": "withheld-third-party-reference"
+        }
+      ],
+      "case_page": "cases/c2-front-clasp-sports-bra/README.md",
+      "video": {
+        "path": "cases/c2-front-clasp-sports-bra/rebuild.mp4",
+        "sha256": "b573dcc9cdb2629accd130e9e6493aef0fa05a56ebee8b8c43fce7846809250d",
+        "duration_seconds": 17.5,
+        "width": 540,
+        "height": 960
+      },
+      "preview_path": "cases/c2-front-clasp-sports-bra/preview.jpg",
+      "preview_time_seconds": 5.0,
+      "historical_cost_usd": 7.5,
+      "cost_scope": "Approximate project spend including retries"
+    },
+    {
+      "id": "c4",
+      "title": "Taqueritos chips skit",
+      "status": "draft",
+      "documented_date": "2026-11-10",
+      "source_path": "04-Clone-Cases/c4-Taqueritos-chips-DRAFT/rebuild-plan.md",
+      "source_media_count": 3,
+      "source_media": [
+        {
+          "source_path": "04-Clone-Cases/c4-Taqueritos-chips-DRAFT/1-reference.mp4",
+          "role": "reference",
+          "disposition": "withheld-third-party-reference"
+        },
+        {
+          "source_path": "04-Clone-Cases/c4-Taqueritos-chips-DRAFT/2-rebuild.mp4",
+          "role": "rebuild",
+          "disposition": "local-repo"
+        },
+        {
+          "source_path": "04-Clone-Cases/c4-Taqueritos-chips-DRAFT/3-compare.mp4",
+          "role": "comparison",
+          "disposition": "withheld-third-party-reference"
+        }
+      ],
+      "case_page": "cases/c4-taqueritos-chips/README.md",
+      "video": {
+        "path": "cases/c4-taqueritos-chips/rebuild.mp4",
+        "sha256": "d3c2388ec817f3c269fd463f3963a7bad7b0a5117ba4f7b3143e11c1380dc6a7",
+        "duration_seconds": 8.196333,
+        "width": 1080,
+        "height": 1920
+      },
+      "preview_path": "cases/c4-taqueritos-chips/preview.jpg",
+      "preview_time_seconds": 1.8,
+      "historical_cost_usd": 1.9,
+      "cost_scope": "Approximate spend through the draft"
+    },
+    {
+      "id": "c5",
+      "title": "Gloss Moderne perfume demo",
+      "status": "draft",
+      "documented_date": "2026-11-10",
+      "source_path": "04-Clone-Cases/c5-Gloss-Moderne-perfume/rebuild-plan.md",
+      "source_media_count": 3,
+      "source_media": [
+        {
+          "source_path": "04-Clone-Cases/c5-Gloss-Moderne-perfume/1-reference.mp4",
+          "role": "reference",
+          "disposition": "withheld-third-party-reference"
+        },
+        {
+          "source_path": "04-Clone-Cases/c5-Gloss-Moderne-perfume/2-rebuild.mp4",
+          "role": "rebuild",
+          "disposition": "local-repo"
+        },
+        {
+          "source_path": "04-Clone-Cases/c5-Gloss-Moderne-perfume/3-compare.mp4",
+          "role": "comparison",
+          "disposition": "withheld-third-party-reference"
+        }
+      ],
+      "case_page": "cases/c5-gloss-moderne-perfume/README.md",
+      "video": {
+        "path": "cases/c5-gloss-moderne-perfume/rebuild.mp4",
+        "sha256": "935c0b379bc5ba3de5c8b2074b67ff7dd1195c246bb52b2a07c51e0bfdd7d625",
+        "duration_seconds": 7.166667,
+        "width": 540,
+        "height": 960
+      },
+      "preview_path": "cases/c5-gloss-moderne-perfume/preview.jpg",
+      "preview_time_seconds": 3.0,
+      "historical_cost_usd": 2.43,
+      "cost_scope": "Approximate frames, video, and video reader"
+    },
+    {
+      "id": "c6",
+      "title": "Gym Day vlog",
+      "status": "finished",
+      "documented_date": "2026-11-12",
+      "source_path": "04-Clone-Cases/c6-Gym-day-vlog/rebuild-plan.md",
+      "source_media_count": 3,
+      "source_media": [
+        {
+          "source_path": "04-Clone-Cases/c6-Gym-day-vlog/1-reference.mp4",
+          "role": "reference",
+          "disposition": "withheld-third-party-reference"
+        },
+        {
+          "source_path": "04-Clone-Cases/c6-Gym-day-vlog/2-rebuild.mp4",
+          "role": "rebuild",
+          "disposition": "local-repo"
+        },
+        {
+          "source_path": "04-Clone-Cases/c6-Gym-day-vlog/3-compare.mp4",
+          "role": "comparison",
+          "disposition": "withheld-third-party-reference"
+        }
+      ],
+      "case_page": "cases/c6-gym-day-vlog/README.md",
+      "video": {
+        "path": "cases/c6-gym-day-vlog/rebuild.mp4",
+        "sha256": "587a2a376fd610413e03db7ce34bdffd51ee3355198446ce0846a2290173c686",
+        "duration_seconds": 20.084667,
+        "width": 540,
+        "height": 960
+      },
+      "preview_path": "cases/c6-gym-day-vlog/preview.jpg",
+      "preview_time_seconds": 1.2,
+      "historical_cost_usd": 5.16,
+      "cost_scope": "Approximate frames, video, and video reader"
+    },
+    {
+      "id": "c7",
+      "title": "Romper talking head",
+      "status": "finished",
+      "documented_date": "2026-11-12",
+      "source_path": "04-Clone-Cases/c7-Romper-talking-head/rebuild-plan.md",
+      "source_media_count": 3,
+      "source_media": [
+        {
+          "source_path": "04-Clone-Cases/c7-Romper-talking-head/1-reference.mp4",
+          "role": "reference",
+          "disposition": "withheld-third-party-reference"
+        },
+        {
+          "source_path": "04-Clone-Cases/c7-Romper-talking-head/2-rebuild.mp4",
+          "role": "rebuild",
+          "disposition": "local-repo"
+        },
+        {
+          "source_path": "04-Clone-Cases/c7-Romper-talking-head/3-compare.mp4",
+          "role": "comparison",
+          "disposition": "withheld-third-party-reference"
+        }
+      ],
+      "case_page": "cases/c7-romper-talking-head/README.md",
+      "video": {
+        "path": "cases/c7-romper-talking-head/rebuild.mp4",
+        "sha256": "49cc1fd51df1f33625c5366488b273c95555639a722b52f118680f1b57452b81",
+        "duration_seconds": 16.625,
+        "width": 540,
+        "height": 960
+      },
+      "preview_path": "cases/c7-romper-talking-head/preview.jpg",
+      "preview_time_seconds": 8.0,
+      "historical_cost_usd": 3.02,
+      "cost_scope": "Approximate frames, video, and video reader"
+    },
+    {
+      "id": "n1",
+      "title": "Foldable solar charger",
+      "status": "output-only",
+      "documented_date": null,
+      "source_path": "05-New-Test-Outputs/n1-solar-charger",
+      "source_media_count": 2,
+      "source_media": [
+        {
+          "source_path": "05-New-Test-Outputs/n1-solar-charger/compare.mp4",
+          "role": "comparison",
+          "disposition": "withheld-third-party-reference"
+        },
+        {
+          "source_path": "05-New-Test-Outputs/n1-solar-charger/rebuild.mp4",
+          "role": "rebuild",
+          "disposition": "local-repo"
+        }
+      ],
+      "case_page": "cases/output-only.md#n1",
+      "video": {
+        "path": "cases/n1-solar-charger/rebuild.mp4",
+        "sha256": "1cdf3eeb3c88a2cc5f747595edf5768555b1232a20635d76a53906b5a79267a7",
+        "duration_seconds": 10.08,
+        "width": 480,
+        "height": 854
+      },
+      "preview_path": "cases/n1-solar-charger/preview.jpg",
+      "preview_time_seconds": 3.0,
+      "historical_cost_usd": null,
+      "cost_scope": null
+    },
+    {
+      "id": "n2",
+      "title": "Red balm tin",
+      "status": "output-only",
+      "documented_date": null,
+      "source_path": "05-New-Test-Outputs/n2-balm-tin",
+      "source_media_count": 2,
+      "source_media": [
+        {
+          "source_path": "05-New-Test-Outputs/n2-balm-tin/compare.mp4",
+          "role": "comparison",
+          "disposition": "withheld-third-party-reference"
+        },
+        {
+          "source_path": "05-New-Test-Outputs/n2-balm-tin/rebuild.mp4",
+          "role": "rebuild",
+          "disposition": "local-repo"
+        }
+      ],
+      "case_page": "cases/output-only.md#n2",
+      "video": {
+        "path": "cases/n2-balm-tin/rebuild.mp4",
+        "sha256": "7745d3ed0b999b7753008cf13343b5c55ce5e999852cfd9de9ae540a32af862e",
+        "duration_seconds": 15.072,
+        "width": 480,
+        "height": 854
+      },
+      "preview_path": "cases/n2-balm-tin/preview.jpg",
+      "preview_time_seconds": 3.0,
+      "historical_cost_usd": null,
+      "cost_scope": null
+    },
+    {
+      "id": "n3",
+      "title": "DAILYFORM shake",
+      "status": "output-only",
+      "documented_date": null,
+      "source_path": "05-New-Test-Outputs/n3-DAILYFORM-shake",
+      "source_media_count": 2,
+      "source_media": [
+        {
+          "source_path": "05-New-Test-Outputs/n3-DAILYFORM-shake/compare.mp4",
+          "role": "comparison",
+          "disposition": "withheld-third-party-reference"
+        },
+        {
+          "source_path": "05-New-Test-Outputs/n3-DAILYFORM-shake/rebuild.mp4",
+          "role": "rebuild",
+          "disposition": "local-repo"
+        }
+      ],
+      "case_page": "cases/output-only.md#n3",
+      "video": {
+        "path": "cases/n3-dailyform-shake/rebuild.mp4",
+        "sha256": "9ec5c601155e72eadd3b2b8410f4c12b1eb0fb990e2b8edb2dd6868879462dd9",
+        "duration_seconds": 17.056,
+        "width": 480,
+        "height": 854
+      },
+      "preview_path": "cases/n3-dailyform-shake/preview.jpg",
+      "preview_time_seconds": 4.0,
+      "historical_cost_usd": null,
+      "cost_scope": null
+    },
+    {
+      "id": "n4",
+      "title": "VELORA serum",
+      "status": "output-only",
+      "documented_date": null,
+      "source_path": "05-New-Test-Outputs/n4-VELORA-serum",
+      "source_media_count": 2,
+      "source_media": [
+        {
+          "source_path": "05-New-Test-Outputs/n4-VELORA-serum/compare.mp4",
+          "role": "comparison",
+          "disposition": "withheld-third-party-reference"
+        },
+        {
+          "source_path": "05-New-Test-Outputs/n4-VELORA-serum/rebuild.mp4",
+          "role": "rebuild",
+          "disposition": "local-repo"
+        }
+      ],
+      "case_page": "cases/output-only.md#n4",
+      "video": {
+        "path": "cases/n4-velora-serum/rebuild.mp4",
+        "sha256": "cde7ba7546ad62ee468916b0eeb7865a2ceffe6745f8ad69c60bf0226274d7af",
+        "duration_seconds": 14.048,
+        "width": 560,
+        "height": 752
+      },
+      "preview_path": "cases/n4-velora-serum/preview.jpg",
+      "preview_time_seconds": 4.0,
+      "historical_cost_usd": null,
+      "cost_scope": null
+    },
+    {
+      "id": "n5",
+      "title": "PACELO sneaker unboxing",
+      "status": "output-only",
+      "documented_date": null,
+      "source_path": "05-New-Test-Outputs/n5-PACELO-sneakers",
+      "source_media_count": 2,
+      "source_media": [
+        {
+          "source_path": "05-New-Test-Outputs/n5-PACELO-sneakers/compare.mp4",
+          "role": "comparison",
+          "disposition": "withheld-third-party-reference"
+        },
+        {
+          "source_path": "05-New-Test-Outputs/n5-PACELO-sneakers/rebuild.mp4",
+          "role": "rebuild",
+          "disposition": "local-repo"
+        }
+      ],
+      "case_page": "cases/output-only.md#n5",
+      "video": {
+        "path": "cases/n5-pacelo-sneakers/rebuild.mp4",
+        "sha256": "35d194b9c8cd81d23e64929729a3642c6d0dcf654f781c90b22542a732d1e359",
+        "duration_seconds": 18.08,
+        "width": 480,
+        "height": 854
+      },
+      "preview_path": "cases/n5-pacelo-sneakers/preview.jpg",
+      "preview_time_seconds": 5.0,
+      "historical_cost_usd": null,
+      "cost_scope": null
+    },
+    {
+      "id": "n6",
+      "title": "VELORA Rose 01",
+      "status": "output-only",
+      "documented_date": null,
+      "source_path": "05-New-Test-Outputs/n6-VELORA-rose",
+      "source_media_count": 2,
+      "source_media": [
+        {
+          "source_path": "05-New-Test-Outputs/n6-VELORA-rose/compare.mp4",
+          "role": "comparison",
+          "disposition": "withheld-third-party-reference"
+        },
+        {
+          "source_path": "05-New-Test-Outputs/n6-VELORA-rose/rebuild.mp4",
+          "role": "rebuild",
+          "disposition": "local-repo"
+        }
+      ],
+      "case_page": "cases/output-only.md#n6",
+      "video": {
+        "path": "cases/n6-velora-rose/rebuild.mp4",
+        "sha256": "ecae6fd16e1d199d27fa42cb06b3e620c0a5a2988b270949bc4842f7ab73514b",
+        "duration_seconds": 15.072,
+        "width": 480,
+        "height": 854
+      },
+      "preview_path": "cases/n6-velora-rose/preview.jpg",
+      "preview_time_seconds": 4.0,
+      "historical_cost_usd": null,
+      "cost_scope": null
+    }
+  ]
+}
