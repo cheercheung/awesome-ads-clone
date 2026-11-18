@@ -21,7 +21,7 @@ Twelve ad rebuilds cover product demos, try-ons, a skit, a vlog, and a talking-h
 
 ## ⚡ Quick Start
 
-Connect [EvoLink MCP](https://evolink.ai/mcp?utm_source=github&utm_medium=quick_start&utm_campaign=awesome_ads_clone&utm_content=connect_mcp) to your Agent. Give it a reference ad, a product image and description, and a creator image or casting brief. Then paste this prompt.
+Connect [EvoLink MCP](https://evolink.ai/tools/ad-clone?utm_source=github&utm_medium=readme&utm_campaign=ad-clone&utm_content=quick_start#agent) to your Agent. Give it a reference ad, a product image and description, and a creator image or casting brief. Then paste this prompt.
 
 ```text
 Use EvoLink MCP to rebuild this reference ad for my product. Keep the hook,
