@@ -667,5 +667,38 @@
       "video_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/send-claude-the-ad-vertical/promo-video-a5765741984eec13.mp4",
       "poster_url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/send-claude-the-ad-vertical/promo-poster-a649ab0a998cfccf.jpg"
     }
-  ]
+  ],
+  "readme_media": {
+    "banner": {
+      "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/readme/banner-f4c2faacd4ba6d8b.jpg",
+      "sha256": "f4c2faacd4ba6d8badc10f17b5c88aac45928350436df091979892cee3ed56ed",
+      "bytes": 139107,
+      "type": "image/jpeg",
+      "width": 1500,
+      "height": 600,
+      "destination": "https://evolink.ai/tools/ad-clone?utm_source=github&utm_medium=readme&utm_campaign=ad-clone&utm_content=banner"
+    },
+    "claude_demo": {
+      "preview": {
+        "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/readme/claude-demo-preview-adadfdc5dff4f2e1.gif",
+        "sha256": "adadfdc5dff4f2e101291dcd87d3c90357a28e763341ccc9940e76caca6cf00e",
+        "bytes": 3705568,
+        "type": "image/gif",
+        "width": 480,
+        "height": 270,
+        "frames_per_second": 5,
+        "duration_seconds": 33.6
+      },
+      "video": {
+        "url": "https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/readme/claude-demo-full-b9b79865b740433e.mp4",
+        "sha256": "b9b79865b740433e64a73a4aed6bee9814f5c74a1493fde334ab2c4b95ee8202",
+        "bytes": 28720329,
+        "type": "video/mp4",
+        "source_name": "Ad-Clone-Claude-Demo_1920x1080.mp4",
+        "width": 1920,
+        "height": 1080,
+        "duration_seconds": 33.6
+      }
+    }
+  }
 }

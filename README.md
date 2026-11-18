@@ -1,15 +1,13 @@
 <div align="center">
-
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/hero/promo-video-5842b3c0d2ce4300.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/hero/promo-poster-2d4cf28371a6766b.jpg" alt="Play the Awesome Ads Clone trailer" width="760"></a>
-
-<br><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/hero/promo-video-5842b3c0d2ce4300.mp4">▶ Play the Awesome Ads Clone trailer</a>
-
-
+  <a href="https://evolink.ai/tools/ad-clone?utm_source=github&utm_medium=readme&utm_campaign=ad-clone&utm_content=banner"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/readme/banner-f4c2faacd4ba6d8b.jpg" alt="Click to Clone winning ads" width="760"></a>
 </div>
 
-
 <h1 align="center">Awesome Ads Clone</h1>
+
+<div align="center">
+  <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/readme/claude-demo-full-b9b79865b740433e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/readme/claude-demo-preview-adadfdc5dff4f2e1.gif" alt="Watch the Claude ad clone demo" width="600"></a>
+  <p><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/readme/claude-demo-full-b9b79865b740433e.mp4">▶ Play the full Claude demo with sound</a> · <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/hero/promo-video-5842b3c0d2ce4300.mp4">Play the Awesome Ads Clone trailer</a></p>
+</div>
 
 ## 🍌 Introduction
 
@@ -340,6 +338,10 @@ Each test has a rebuild and a side-by-side comparison.
 <a id="promo-videos"></a>
 
 ## 📽️ More promotional videos
+
+### Awesome Ads Clone trailer
+
+<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/hero/promo-video-5842b3c0d2ce4300.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/hero/promo-poster-2d4cf28371a6766b.jpg" alt="Play the Awesome Ads Clone trailer" width="760"></a>
 
 ### Clone Any Ad
 
