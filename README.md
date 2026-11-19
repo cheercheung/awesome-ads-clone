@@ -4,6 +4,14 @@
 
 <h1 align="center">Awesome Ads Clone</h1>
 
+<!-- language-picker -->
+<div align="center">
+
+[![English](https://img.shields.io/badge/English-111111)](README.md) [![Español](https://img.shields.io/badge/Espa%C3%B1ol-ffb703)](README_es.md) [![Português](https://img.shields.io/badge/Portugu%C3%AAs-2a9d8f)](README_pt.md) [![日本語](https://img.shields.io/badge/%E6%97%A5%E6%9C%AC%E8%AA%9E-52b788)](README_ja.md) [![한국어](https://img.shields.io/badge/%ED%95%9C%EA%B5%AD%EC%96%B4-4ea8de)](README_ko.md) [![Deutsch](https://img.shields.io/badge/Deutsch-f4a261)](README_de.md) [![Français](https://img.shields.io/badge/Fran%C3%A7ais-e76f51)](README_fr.md) [![Türkçe](https://img.shields.io/badge/T%C3%BCrk%C3%A7e-d62828)](README_tr.md) [![繁體中文](https://img.shields.io/badge/%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87-8338ec)](README_zh-TW.md) [![简体中文](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-ef476f)](README_zh-CN.md) [![Русский](https://img.shields.io/badge/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-577590)](README_ru.md)
+
+</div>
+<!-- /language-picker -->
+
 <div align="center">
   <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/readme/claude-demo-full-b9b79865b740433e.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/readme/claude-demo-preview-adadfdc5dff4f2e1.gif" alt="Watch the Claude ad clone demo" width="600"></a>
   <p><a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/readme/claude-demo-full-b9b79865b740433e.mp4">▶ Play the full Claude demo with sound</a> · <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/hero/promo-video-5842b3c0d2ce4300.mp4">Play the Awesome Ads Clone trailer</a></p>
@@ -99,7 +107,6 @@ python3 tools/video_read.py reference.mp4 work/reference-sound.md --prompt tools
 | [VELORA serum](#n4) | Serum demonstration |
 | [PACELO sneaker unboxing](#n5) | Sneaker unboxing |
 | [VELORA Rose 01](#n6) | Fragrance demonstration |
-| [More promotional videos](#promo-videos) | Both editions in three formats |
 
 ## 🎬 Documented cases
 
@@ -334,26 +341,6 @@ Each test has a rebuild and a side-by-side comparison.
 | [Play rebuild](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/n6/rebuild-video-ecae6fd16e1d199d.mp4) | [Play comparison](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/n6/comparison-video-c87fe39b39885eff.mp4) |
 | :---: | :---: |
 | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/n6/rebuild-video-ecae6fd16e1d199d.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/n6/rebuild-poster-f5667790c211c971.jpg" alt="Play rebuild" width="115"></a> | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/n6/comparison-video-c87fe39b39885eff.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/n6/comparison-poster-ac8191ee9f874ad3.jpg" alt="Play comparison" width="240"></a> |
-
-<a id="promo-videos"></a>
-
-## 📽️ More promotional videos
-
-### Awesome Ads Clone trailer
-
-<a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/hero/promo-video-5842b3c0d2ce4300.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/hero/promo-poster-2d4cf28371a6766b.jpg" alt="Play the Awesome Ads Clone trailer" width="760"></a>
-
-### Clone Any Ad
-
-| [Play 1080p](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/clone-any-ad-1080p/promo-video-63ac46208310ab9f.mp4) | [Play 720p](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/clone-any-ad-720p/promo-video-8b024f5645de7d2c.mp4) | [Play vertical](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/clone-any-ad-vertical/promo-video-643f51694c56c422.mp4) |
-| :---: | :---: | :---: |
-| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/clone-any-ad-1080p/promo-video-63ac46208310ab9f.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/clone-any-ad-1080p/promo-poster-344381e418aa746e.jpg" alt="Play 1080p" width="200"></a> | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/clone-any-ad-720p/promo-video-8b024f5645de7d2c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/clone-any-ad-720p/promo-poster-df916117979a98cd.jpg" alt="Play 720p" width="200"></a> | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/clone-any-ad-vertical/promo-video-643f51694c56c422.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/clone-any-ad-vertical/promo-poster-c80e5816897c4d5d.jpg" alt="Play vertical" width="90"></a> |
-
-### Send Claude the Ad
-
-| [Play 1080p](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/send-claude-the-ad-1080p/promo-video-2aec4d2d254772f4.mp4) | [Play 720p](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/send-claude-the-ad-720p/promo-video-1c1d3529317e996c.mp4) | [Play vertical](https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/send-claude-the-ad-vertical/promo-video-a5765741984eec13.mp4) |
-| :---: | :---: | :---: |
-| <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/send-claude-the-ad-1080p/promo-video-2aec4d2d254772f4.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/send-claude-the-ad-1080p/promo-poster-a35dd6099f6e8bc4.jpg" alt="Play 1080p" width="200"></a> | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/send-claude-the-ad-720p/promo-video-1c1d3529317e996c.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/send-claude-the-ad-720p/promo-poster-ad37ca08b5692d3a.jpg" alt="Play 720p" width="200"></a> | <a href="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/send-claude-the-ad-vertical/promo-video-a5765741984eec13.mp4"><img src="https://pub-62cf7640cd0f4066b60933bd2e9b85ef.r2.dev/github-repo-media/awesome-ads-clone/send-claude-the-ad-vertical/promo-poster-a649ab0a998cfccf.jpg" alt="Play vertical" width="90"></a> |
 
 ## 🔗 Related Repositories
 
